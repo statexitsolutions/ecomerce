@@ -1,0 +1,14 @@
+**migrations/
+*.pyc
+.env
+.vscode/
+/assets/*
+/static_dir/*
+**/__pycache__
+**logs/
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+medi
